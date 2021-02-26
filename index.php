@@ -315,42 +315,42 @@ table, td{
       <td>Europa League</td>
       <td>Ajax v Lille</td>
       <td>BTTS</td>
-      <td></td>
+      <td style="color:green">2-1</td>
     </tr>
     <tr>
       <th scope="row">17:55</th>
       <td>Europa League</td>
       <td>Hoffenheim v Molde</td>
       <td>Over 2.5</td>
-      <td></td>
+      <td style="color:green">0-2</td>
     </tr>
     <tr>
       <th scope="row">17:55</th>
       <td>Europa League</td>
       <td>Rangers v Royal Antwerp</td>
       <td>1</td>
-      <td></td>
+      <td style="color:green">5-2</td>
     </tr>
     <tr>
       <th scope="row">17:55</th>
       <td>Europa League</td>
       <td>Shakhtar Donetsk v Maccabi Tel Aviv</td>
       <td>1</td>
-      <td></td>
+      <td style="color:green">1-0</td>
     </tr>
     <tr>
       <th scope="row">8:00</th>
       <td>Europa League</td>
       <td>Leverkusen v Young Boys</td>
       <td>Over 2.5</td>
-      <td></td>
+      <td style="color:green">0-2</td>
     </tr>
     <tr>
       <th scope="row">8:00</th>
       <td>Europa League</td>
       <td>PSV v Olympiacos</td>
       <td>BTTS</td>
-      <td></td>
+      <td style="color:green">2-1</td>
     </tr>
   </tbody>
 </table>
