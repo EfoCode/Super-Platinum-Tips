@@ -286,10 +286,10 @@ table, td{
  </button>
  </div>
  <div class="col-sm-2">
- <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>25th Feb 2021</b></button>
+ <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>28th Feb 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>26th Feb 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>29th Feb 2021</b></button>
 </div>
 </div>
 </div>
@@ -310,51 +310,72 @@ table, td{
     </tr>
   </thead>
   <tbody>
-  <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Ajax v Lille</td>
-      <td>BTTS</td>
-      <td style="color:green">2-1</td>
-    </tr>
     <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Hoffenheim v Molde</td>
-      <td>Over 2.5</td>
-      <td style="color:green">0-2</td>
-    </tr>
-    <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Rangers v Royal Antwerp</td>
+      <th scope="row">12:30</th>
+      <td>END - Premier League</td>
+      <td>Man City v West Ham</td>
       <td>1</td>
-      <td style="color:green">5-2</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Shakhtar Donetsk v Maccabi Tel Aviv</td>
-      <td>1</td>
-      <td style="color:green">1-0</td>
-    </tr>
-    <tr>
-      <th scope="row">8:00</th>
-      <td>Europa League</td>
-      <td>Leverkusen v Young Boys</td>
+      <th scope="row">14:30</th>
+      <td>GER - Bundesliga</td>
+      <td>Bayern v Cologne</td>
       <td>Over 2.5</td>
-      <td style="color:green">0-2</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">8:00</th>
-      <td>Europa League</td>
-      <td>PSV v Olympiacos</td>
-      <td>BTTS</td>
-      <td style="color:green">2-1</td>
+      <th scope="row">14:30</th>
+      <td>GER - Bundesliga</td>
+      <td>Dortmund v Arminia Bielefeld</td>
+      <td>Over 2.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">17:30</th>
+      <td>GER - Bundesliga</td>
+      <td>RB Leipzig v B. Mgladbach</td>
+      <td>1WEH</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">19:45</th>
+      <td>ITA - Serie A</td>
+      <td>Verona v Juventus</td>
+      <td>2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">17:00</th>
+      <td>ITA - Seria A</td>
+      <td>Bologna v Lazio</td>
+      <td>Over 8.5 corners</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">16:00</th>
+      <td>FRA - Ligue 1</td>
+      <td>Dijon v PSG</td>
+      <td>2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15:30</th>
+      <td>NED - Eredivisie</td>
+      <td>Utrecht v Emmen</td>
+      <td>Over 2.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15:00</th>
+      <td>END - League One</td>
+      <td>Peterborough Utd v Wigan Athletic</td>
+      <td>1</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
-</div>
+</div><br>
 <!-- <script>
 document.getElementById("table2");
 table2.display = none;
@@ -403,12 +424,13 @@ table2.display = none;
   </tbody>
 </table>
 </div>
-</div><br>
+</div>
 <!-- end table -->
 
+ <a href="http://www.betway.com.gh/bookabet/165CA598" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+ <a href="https://www.sportybet.com/?shareCode=BC4F5ECE&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
- <a href="http://www.betway.com.gh/bookabet/16364D78" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
- <a href="https://www.sportybet.com/?shareCode=BC4DCYQM&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+</div>
 
 
 <div>
@@ -426,6 +448,7 @@ table2.display = none;
 </div>
 </div>
 
+
 <table id="xend" class="table table-hover table-dark w-50 p-20 text-center center-table">
   <thead>
     <tr>
@@ -436,8 +459,14 @@ table2.display = none;
       <th scope="col">Score</th>
     </tr>
   </thead>
+  <tr>
+      <th scope="row"></th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   <tbody>
-  <
   </tbody>
 </table><br>
 <a href="#" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
