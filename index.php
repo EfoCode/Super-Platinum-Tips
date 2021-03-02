@@ -286,10 +286,10 @@ table, td{
  </button>
  </div>
  <div class="col-sm-2">
- <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>28th Feb 2021</b></button>
+ <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>2nd March 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>29th Feb 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>3rd Match 2021</b></button>
 </div>
 </div>
 </div>
@@ -310,67 +310,11 @@ table, td{
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope="row">12:30</th>
-      <td>END - Premier League</td>
-      <td>Man City v West Ham</td>
-      <td>1</td>
+  <tr>
+      <th scope="row"></th>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">14:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Bayern v Cologne</td>
-      <td>Over 2.5</td>
+      <td>No matches available at the moment</td>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">14:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Dortmund v Arminia Bielefeld</td>
-      <td>Over 2.5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">17:30</th>
-      <td>GER - Bundesliga</td>
-      <td>RB Leipzig v B. Mgladbach</td>
-      <td>1WEH</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">19:45</th>
-      <td>ITA - Serie A</td>
-      <td>Verona v Juventus</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">17:00</th>
-      <td>ITA - Seria A</td>
-      <td>Bologna v Lazio</td>
-      <td>Over 8.5 corners</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">16:00</th>
-      <td>FRA - Ligue 1</td>
-      <td>Dijon v PSG</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">15:30</th>
-      <td>NED - Eredivisie</td>
-      <td>Utrecht v Emmen</td>
-      <td>Over 2.5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">15:00</th>
-      <td>END - League One</td>
-      <td>Peterborough Utd v Wigan Athletic</td>
-      <td>1</td>
       <td></td>
     </tr>
   </tbody>
@@ -495,39 +439,11 @@ table2.display = none;
   </thead>
   <tbody>
   <tr>
-      <th scope="row">19:00</th>
-      <td>NED - Eredivisie</td>
-      <td>VVV Venlo v AZ Alkmaar</td>
-      <td>Over 2.5</td>
-      <td style="color:green">1-4</td>
-    </tr>
-    <tr>
-      <th scope="row">14:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Frankfurt v Bayern</td>
-      <td>Over 2.5</td>
-      <td style="color:green">2-1</td>
-    </tr>
-    <tr>
-      <th scope="row">17:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Schalke v Dortmun</td>
-      <td>Over 2.5</td>
-      <td style="color:green">0-4</td>
-    </tr>
-    <tr>
-      <th scope="row">14:00</th>
-      <td>RUS - Super Cup</td>
-      <td>Zenit v Arsenal Tula</td>
-      <td>Over 2.5</td>
-      <td style="color:green">1-2</td>
-    </tr>
-    <tr>
-      <th scope="row">13:00</th>
-      <td>NED - Eerste Divisie</td>
-      <td>Oss v Almere City</td>
-      <td>Over 2.5</td>
-      <td style="color:green">2-3</td>
+      <th scope="row"></th>
+      <td></td>
+      <td>No matches available at the moment</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 
