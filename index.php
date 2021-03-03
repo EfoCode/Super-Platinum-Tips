@@ -286,10 +286,10 @@ table, td{
  </button>
  </div>
  <div class="col-sm-2">
- <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>2nd March 2021</b></button>
+ <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>3rd March 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>3rd Match 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>4th March 2021</b></button>
 </div>
 </div>
 </div>
@@ -311,10 +311,73 @@ table, td{
   </thead>
   <tbody>
   <tr>
-      <th scope="row"></th>
+      <th scope="row">20:15</th>
+      <td>FRA - Ligue 1</td>
+      <td>Strasbourg v Monaco</td>
+      <td>12</td>
       <td></td>
-      <td>No matches available at the moment</td>
+    </tr>
+    <tr>
+      <th scope="row">19:45</th>
+      <td>ITA - Serie A</td>
+      <td>Atalanta v Crotone</td>
+      <td>Over 2.5</td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">19:00</th>
+      <td>Championship</td>
+      <td>Watford v Wycombe Wanderers</td>
+      <td>1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">20:00</th>
+      <td>FRA - Ligue 1</td>
+      <td>Bordeaux v PSG</td>
+      <td>2WEH</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">19:00</th>
+      <td>DEN - Superligaen</td>
+      <td>Copenhagen v Vejle BK</td>
+      <td>Over 2.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">18:45</th>
+      <td>ISR - Primier League</td>
+      <td>Hapoel Tel Aviv v Maccabi Haifa</td>
+      <td>2WEH</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">18:00</th>
+      <td>SCO - Premiership</td>
+      <td>Livingston v Rangers</td>
+      <td>2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15:05</th>
+      <td>SRB - Superliga</td>
+      <td>Spartak Subotica v Macva Sabac</td>
+      <td>1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15:05</th>
+      <td>SRB - Superliga</td>
+      <td>Backa Topola v Red Star Belgrade</td>
+      <td>2WEH</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9:00</th>
+      <td>JPN - J.League</td>
+      <td>Kawasaki Frontale v Cerezo O</td>
+      <td>1</td>
       <td></td>
     </tr>
   </tbody>
@@ -371,8 +434,8 @@ table2.display = none;
 </div>
 <!-- end table -->
 
- <a href="http://www.betway.com.gh/bookabet/165CA598" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
- <a href="https://www.sportybet.com/?shareCode=BC4F5ECE&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+ <a href="http://www.betway.com.gh/bookabet/16983033" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+ <a href="https://www.sportybet.com/?shareCode=BC4HZEBR&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 </div>
 
@@ -404,17 +467,38 @@ table2.display = none;
     </tr>
   </thead>
   <tr>
-      <th scope="row"></th>
+      <th scope="row">9:00</th>
+      <td>JPN - J.League</td>
+      <td>Kawasaki Frontale v Cerezo O</td>
+      <td>Over 2.5</td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">20:00</th>
+      <td>NED - KNVB beker</td>
+      <td>Heerenveen v Ajax</td>
+      <td>Over 2.5</td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15:45</th>
+      <td>Champions League</td>
+      <td>Barcelona v Fortuna Hjorring</td>
+      <td>Over 3.5</td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10:00</th>
+      <td>JPN - J.League</td>
+      <td>Nagoya Gram v Gamba Osaka</td>
+      <td>Over 1.5</td>
       <td></td>
     </tr>
   <tbody>
   </tbody>
 </table><br>
-<a href="#" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
-<a href="#" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+<a href="http://www.betway.com.gh/bookabet/169878D4" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+<a href="https://www.sportybet.com/?shareCode=BC4HZUNX&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 
 
