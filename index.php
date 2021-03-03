@@ -523,11 +523,95 @@ table2.display = none;
   </thead>
   <tbody>
   <tr>
-      <th scope="row"></th>
-      <td></td>
-      <td>No matches available at the moment</td>
-      <td></td>
-      <td></td>
+      <th scope="row">20:15</th>
+      <td>FRA - Ligue 1</td>
+      <td>Strasbourg v Monaco</td>
+      <td>12</td>
+      <td style="color:green">1-0</td>
+    </tr>
+    <tr>
+      <th scope="row">19:45</th>
+      <td>ITA - Serie A</td>
+      <td>Atalanta v Crotone</td>
+      <td>Over 2.5</td>
+      <td style="color:green">5-1</td>
+    </tr>
+    <tr>
+      <th scope="row">19:00</th>
+      <td>Championship</td>
+      <td>Watford v Wycombe Wanderers</td>
+      <td>1</td>
+      <td style="color:green">2-0</td>
+    </tr>
+    <tr>
+      <th scope="row">20:00</th>
+      <td>FRA - Ligue 1</td>
+      <td>Bordeaux v PSG</td>
+      <td>2WEH</td>
+      <td style="color:green">0-1</td>
+    </tr>
+    <tr>
+      <th scope="row">19:00</th>
+      <td>DEN - Superligaen</td>
+      <td>Copenhagen v Vejle BK</td>
+      <td>Over 2.5</td>
+      <td style="color:green">2-1</td>
+    </tr>
+    <tr>
+      <th scope="row">18:45</th>
+      <td>ISR - Primier League</td>
+      <td>Hapoel Tel Aviv v Maccabi Haifa</td>
+      <td>2WEH</td>
+      <td style="color:green">1-2</td>
+    </tr>
+    <tr>
+      <th scope="row">18:00</th>
+      <td>SCO - Premiership</td>
+      <td>Livingston v Rangers</td>
+      <td>2</td>
+      <td style="color:green">0-1</td>
+    </tr>
+    <tr>
+      <th scope="row">15:05</th>
+      <td>SRB - Superliga</td>
+      <td>Spartak Subotica v Macva Sabac</td>
+      <td>1</td>
+      <td style="color:green">3-2</td>
+    </tr>
+    <tr>
+      <th scope="row">15:05</th>
+      <td>SRB - Superliga</td>
+      <td>Backa Topola v Red Star Belgrade</td>
+      <td>2WEH</td>
+      <td style="color:green">1-3</td>
+    </tr>
+    <tr>
+      <th scope="row">9:00</th>
+      <td>JPN - J.League</td>
+      <td>Kawasaki Frontale v Cerezo O</td>
+      <td>1</td>
+      <td style="color:green">3-2</td>
+    </tr>
+    <tr>
+      <th scope="row">9:00</th>
+      <td>JPN - J.League</td>
+      <td>Kawasaki Frontale v Cerezo O</td>
+      <td>Over 2.5</td>
+      <td style="color:green">3-2</td>
+    </tr>
+    <tr>
+      <th scope="row">20:00</th>
+      <td>NED - KNVB beker</td>
+      <td>Heerenveen v Ajax</td>
+      <td>Over 2.5</td>
+      <td style="color:green">0-3</td>
+    </tr>
+    <tr>
+      <th scope="row">15:45</th>
+      <td>Champions League</td>
+      <td>Barcelona v Fortuna Hjorring</td>
+      <td>Over 3.5</td>
+      <td style="color:green">4-0</td>
     </tr>
   </tbody>
 
