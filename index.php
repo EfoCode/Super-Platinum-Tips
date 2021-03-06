@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
   <script src="js\bootstrap.min.js"></script>
+
     <!-- <script type="text/javascript" src="crazy.js"></script> -->
     <script type="text/javascript" src="jquery\jquery-3.5.1.js"></script>
     <script type="text/javascript">
@@ -209,23 +210,30 @@ table, td{
 
 
 </style> 
+
+<!-- google ads -->
 <script data-ad-client="ca-pub-9138972361035162" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- google ads end -->
+
+
+<!-- Facebook Pixel Code -->
 <!-- Facebook Pixel Code -->
 <script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '1007007196455551');
-  fbq('track', 'PageView');
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '273127084337104');
+fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1007007196455551&ev=PageView&noscript=1"
+src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 /></noscript>
+<!-- End Facebook Pixel Code -->
 <!-- End Facebook Pixel Code -->
 </head>
 <body>
@@ -315,14 +323,14 @@ table, td{
       <td>JPN - J1 League</td>
       <td>Vegalta Sendai v Kawasaki Frontale</td>
       <td>2</td>
-      <td></td>
+      <td style="color:green">1-5</td>
   </tr>
   <tr>
       <th scope="row">7:30</th>
       <td>KOR - K-League</td>
       <td>Gwangju v Ulsan Hyundai</td>
       <td>2WEH</td>
-      <td></td>
+      <td style="color:green">0-1</td>
   </tr>
   <tr>
       <th scope="row">14:30</th>
@@ -560,8 +568,8 @@ table2.display = none;
   <tbody>
   </tbody>
 </table><br>
-<a href="" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
-<a href="" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+<a href="http://www.betway.com.gh/bookabet/16BEE610" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+<a href="https://www.sportybet.com/?shareCode=BC4KWDUT&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 
 
