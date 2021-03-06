@@ -282,14 +282,14 @@ table, td{
 <div class="col-sm-3">
 </div>
  <div class="col-sm-2">
- <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>Today</b>
+ <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>6th March 2021</b>
  </button>
  </div>
  <div class="col-sm-2">
- <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>Yesterday</b></button>
+ <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>3rd March 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>5th March 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>7th March 2021</b></button>
 </div>
 </div>
 </div>
@@ -311,54 +311,75 @@ table, td{
   </thead>
   <tbody>
   <tr>
-      <th scope="row">19:45</th>
-      <td>ITA - Serie A</td>
-      <td>Parma v Inter Milan</td>
-      <td>Over 2.5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">18:00</th>
-      <td>ENG - Premier League</td>
-      <td>Fulham v Tottenham</td>
-      <td>2WEH</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">19:00</th>
-      <td>DEN - Superligaen</td>
-      <td>Brondby v Randers</td>
-      <td>1WEH</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">17:00</th>
-      <td>DEN - Superligaen</td>
-      <td>Lyngby BK v Midtjylland</td>
+      <th scope="row">5:00</th>
+      <td>JPN - J1 League</td>
+      <td>Vegalta Sendai v Kawasaki Frontale</td>
       <td>2</td>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">18:45</th>
-      <td>ISR - Ligat ha'Al</td>
-      <td>Hapoel Haifa v Maccabi Tel Aviv</td>
+  </tr>
+  <tr>
+      <th scope="row">7:30</th>
+      <td>KOR - K-League</td>
+      <td>Gwangju v Ulsan Hyundai</td>
       <td>2WEH</td>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">16:00</th>
-      <td>Greek Cup</td>
-      <td>Volos Nps v AEK Athens</td>
-      <td>Over 1.5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">17:00</th>
-      <td>EST - Esiliiga</td>
-      <td>JK Tallinna v JK Nomme United</td>
+  </tr>
+  <tr>
+      <th scope="row">14:30</th>
+      <td>GER - Bundesliga</td>
+      <td>Freiburg v RB Leipzig</td>
       <td>Over 2.5</td>
       <td></td>
-    </tr>
+  </tr>
+  <tr>
+      <th scope="row">15:00</th>
+      <td>Championship</td>
+      <td>Swansea v Middlesbrough</td>
+      <td>Over 1.5</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">15:00</th>
+      <td>Championship</td>
+      <td>Norwich v Luton</td>
+      <td>Over 1.5</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">15:00</th>
+      <td>SCO - Premiership</td>
+      <td>Rangers v St Mirren</td>
+      <td>1</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">15:15</th>
+      <td>ESP - La Liga</td>
+      <td>Elche v Sevilla</td>
+      <td>2WEH</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">16:15</th>
+      <td>SLO - Prva Liga</td>
+      <td>ND Gorica v Maribor</td>
+      <td>2WEH</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">17:30</th>
+      <td>GER - Bundesliga</td>
+      <td>Bayern v Dortmund</td>
+      <td>Over 2.5&Yes</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">20:00</th>
+      <td>ESP - La Liga</td>
+      <td>Osasuna v Barcelona</td>
+      <td>2WEH</td>
+      <td></td>
+  </tr>
   </tbody>
 </table>
 </div><br>
@@ -476,8 +497,8 @@ table2.display = none;
 </div>
 <!-- end table -->
 
- <a href="http://www.betway.com.gh/bookabet/16A8C0EB" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
- <a href="https://www.sportybet.com/?shareCode=BC4JU9CQ&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+ <a href="http://www.betway.com.gh/bookabet/16B4666B" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+ <a href="https://www.sportybet.com/?shareCode=BC4KCUG6&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 </div>
 
@@ -508,39 +529,39 @@ table2.display = none;
       <th scope="col">Score</th>
     </tr>
   </thead>
-  <tr>
-      <th scope="row">9:00</th>
-      <td>JPN - J.League</td>
-      <td>Kawasaki Frontale v Cerezo O</td>
+    <tr>
+      <th scope="row">13:00</th>
+      <td>GER - 3. Liga</td>
+      <td>Meppen v Dynamo Dresden</td>
       <td>Over 2.5</td>
-      <td style="color:green">3-2</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">20:00</th>
-      <td>NED - KNVB beker</td>
-      <td>Heerenveen v Ajax</td>
+      <th scope="row">13:00</th>
+      <td>GERMANY</td>
+      <td>Wegberg-Beeck v Dortmund II</td>
       <td>Over 2.5</td>
-      <td style="color:green">0-3</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">15:45</th>
-      <td>Champions League</td>
-      <td>Barcelona v Fortuna Hjorring</td>
-      <td>Over 3.5</td>
-      <td style="color:green">4-0</td>
+      <th scope="row">13:00</th>
+      <td>GERMANY</td>
+      <td>Bahlinger v Freiburg II</td>
+      <td>Over 2.5</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">10:00</th>
-      <td>JPN - J.League</td>
-      <td>Nagoya Gram v Gamba Osaka</td>
-      <td>Over 1.5</td>
-      <td>VOID</td>
+      <th scope="row">14:00</th>
+      <td>Bundesliga - Women</td>
+      <td>SG Essen-Schonebeck v W. Bremen</td>
+      <td>Over 2.5</td>
+      <td></td>
     </tr>
   <tbody>
   </tbody>
 </table><br>
-<a href="http://www.betway.com.gh/bookabet/169878D4" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
-<a href="https://www.sportybet.com/?shareCode=BC4HZUNX&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+<a href="" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+<a href="" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 
 
