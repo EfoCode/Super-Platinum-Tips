@@ -86,20 +86,20 @@ table, td{
 
 @media screen and (max-width: 414px) {
   table, td{
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
 
 @media screen and (max-width: 375px) {
   table, td{
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
 @media screen and (max-width: 280px) {
   table, td{
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
@@ -307,7 +307,7 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 
 <!-- Table --> 
 <div id="tableOld" class="">
-<table id="mat" class="table table-hover table-dark w-50 p-50  center-table" style="align:center; font-size:15px;">
+<table id="mat" class="table table-hover table-dark w-50 p-50  center-table" style="align:center; font-size:13px;">
   <thead style="font-size:12px;">
   <tr>
       <th scope="col">Time</th>
@@ -319,74 +319,11 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
   </thead>
   <tbody>
   <tr>
-      <th scope="row">5:00</th>
-      <td>JPN - J1 League</td>
-      <td>Vegalta Sendai v Kawasaki Frontale</td>
-      <td>2</td>
-      <td style="color:green">1-5</td>
-  </tr>
-  <tr>
-      <th scope="row">7:30</th>
-      <td>KOR - K-League</td>
-      <td>Gwangju v Ulsan Hyundai</td>
-      <td>2WEH</td>
-      <td style="color:green">0-1</td>
-  </tr>
-  <tr>
-      <th scope="row">14:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Freiburg v RB Leipzig</td>
-      <td>Over 2.5</td>
+      <th scope="row"></th>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">15:00</th>
-      <td>Championship</td>
-      <td>Swansea v Middlesbrough</td>
-      <td>Over 1.5</td>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">15:00</th>
-      <td>Championship</td>
-      <td>Norwich v Luton</td>
-      <td>Over 1.5</td>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">15:00</th>
-      <td>SCO - Premiership</td>
-      <td>Rangers v St Mirren</td>
-      <td>1</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">15:15</th>
-      <td>ESP - La Liga</td>
-      <td>Elche v Sevilla</td>
-      <td>2WEH</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">16:15</th>
-      <td>SLO - Prva Liga</td>
-      <td>ND Gorica v Maribor</td>
-      <td>2WEH</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">17:30</th>
-      <td>GER - Bundesliga</td>
-      <td>Bayern v Dortmund</td>
-      <td>Over 2.5&Yes</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">20:00</th>
-      <td>ESP - La Liga</td>
-      <td>Osasuna v Barcelona</td>
-      <td>2WEH</td>
-      <td></td>
+      <td style="color:green"></td>
   </tr>
   </tbody>
 </table>
@@ -505,8 +442,8 @@ table2.display = none;
 </div>
 <!-- end table -->
 
- <a href="http://www.betway.com.gh/bookabet/16B4666B" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
- <a href="https://www.sportybet.com/?shareCode=BC4KCUG6&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+ <a href="#" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+ <a href="#" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 </div>
 
@@ -538,38 +475,17 @@ table2.display = none;
     </tr>
   </thead>
     <tr>
-      <th scope="row">13:00</th>
-      <td>GER - 3. Liga</td>
-      <td>Meppen v Dynamo Dresden</td>
-      <td>Over 2.5</td>
+      <th scope="row"></th>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">13:00</th>
-      <td>GERMANY</td>
-      <td>Wegberg-Beeck v Dortmund II</td>
-      <td>Over 2.5</td>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">13:00</th>
-      <td>GERMANY</td>
-      <td>Bahlinger v Freiburg II</td>
-      <td>Over 2.5</td>
       <td></td>
-    </tr>
-    <tr>
-      <th scope="row">14:00</th>
-      <td>Bundesliga - Women</td>
-      <td>SG Essen-Schonebeck v W. Bremen</td>
-      <td>Over 2.5</td>
       <td></td>
     </tr>
   <tbody>
   </tbody>
 </table><br>
-<a href="http://www.betway.com.gh/bookabet/16BEE610" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
-<a href="https://www.sportybet.com/?shareCode=BC4KWDUT&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+<a href="#" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+<a href="#" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 
 
