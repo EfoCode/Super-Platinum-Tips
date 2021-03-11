@@ -290,14 +290,14 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <div class="col-sm-3">
 </div>
  <div class="col-sm-2">
- <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>6th March 2021</b>
+ <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>11th March 2021</b>
  </button>
  </div>
  <div class="col-sm-2">
  <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>3rd March 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>7th March 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>13th March 2021</b></button>
 </div>
 </div>
 </div>
@@ -319,11 +319,60 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
   </thead>
   <tbody>
   <tr>
-      <th scope="row"></th>
+      <th scope="row">17:55</th>
+      <td>Europa League</td>
+      <td>Ajax v Young Boys</td>
+      <td>Over 2.5</td>
       <td></td>
+  </tr>
+  <tr>
+      <th scope="row">17:55</th>
+      <td>Europa league</td>
+      <td>Dynamo Kiev v Villarreal</td>
+      <td>2WEH</td>
       <td></td>
+  </tr>
+  <tr>
+      <th scope="row">17:55</th>
+      <td>Europa League</td>
+      <td>Man Utd v AC Milan</td>
+      <td>1WEH</td>
       <td></td>
-      <td style="color:green"></td>
+  </tr>
+  <tr>
+      <th scope="row">20:00</th>
+      <td>Europa League</td>
+      <td>Granada v Molde</td>
+      <td>Over 1.5</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">17:55</th>
+      <td>Europa League</td>
+      <td>Slavia Prague v Rangers</td>
+      <td>BTTS</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">20:00</th>
+      <td>Europa League</td>
+      <td>Roma v Shakhtar Donetsk</td>
+      <td>1WEH</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">20:00</th>
+      <td>Europa League</td>
+      <td>Tottenham v Dinamo Zagreb</td>
+      <td>1</td>
+      <td></td>
+  </tr>
+  <tr>
+      <th scope="row">20:00</th>
+      <td>Europa League</td>
+      <td>Olympiacos v Arsenal</td>
+      <td>Over 1.5</td>
+      <td></td>
   </tr>
   </tbody>
 </table>
@@ -442,8 +491,8 @@ table2.display = none;
 </div>
 <!-- end table -->
 
- <a href="#" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
- <a href="#" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
+ <a href="http://www.betway.com.gh/bookabet/1712AB7F" target="_blank"><button type="button" class="flash-button">Place Bet > BETWAY</button></a>
+ <a href="https://www.sportybet.com/?shareCode=BC4PQLWT&c=gh" target="_blank"><button style="margin-left:120px; padding:10px" type="button" id="flash-button" class="flash-button">Place Bet > SPORTYBET</button></a><br><br>
 
 </div>
 
