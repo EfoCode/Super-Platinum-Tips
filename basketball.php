@@ -175,6 +175,8 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 </head>
 
 <body>
+
+<!-- SSL CERTIFICATE CODE -->
 <script type="text/javascript"> //<![CDATA[
   var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
   document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
@@ -182,6 +184,9 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <script language="JavaScript" type="text/javascript">
   TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_md_167x42.png", "POSDV", "none");
 </script>
+<!-- SSL CERTIFICATE -->
+
+
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
@@ -376,25 +381,11 @@ table2.display = none;
   </thead>
   <tbody>
   <tr>
-      <th scope="row">10:00</th>
-      <td>Americup Qualification</td>
-      <td>Mexico v USA</td>
-      <td>USA Over 90.5</td>
-      <td style="color:green">75-96</td>
-    </tr>
-    <tr>
-      <th scope="row">1:00</th>
-      <td>Americup Qualification</td>
-      <td>Bahamas v Puerto Rico</td>
-      <td>Away Over 87.5</td>
-      <td style="color:green">97-102</td>
-    </tr>
-    <tr>
-      <th scope="row">00:30</th>
-      <td>USA - NDL</td>
-      <td>Santa Cruz Warriors v Salt Lake City Stars</td>
-      <td>Home Over 106.5</td>
-      <td style="color:green">109-104</td>
+      <th scope="row"></th>
+      <td></td>
+      <td>No matches available at the moment</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table><br><br><br><br><br>

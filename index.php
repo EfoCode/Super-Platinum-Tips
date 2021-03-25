@@ -237,6 +237,8 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <!-- End Facebook Pixel Code -->
 </head>
 <body>
+
+<!-- SSL CERTIFICATE CODE -->
 <script type="text/javascript"> //<![CDATA[
   var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
   document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
@@ -244,6 +246,9 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <script language="JavaScript" type="text/javascript">
   TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_md_167x42.png", "POSDV", "none");
 </script>
+<!-- SSL CERTIFICATE -->
+
+
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
@@ -290,14 +295,14 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <div class="col-sm-3">
 </div>
  <div class="col-sm-2">
- <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>11th March 2021</b>
+ <button type="button" id="goldx" onclick='grape()' class="btn btn-dark text-danger mr-5 mb-3" style="margin-left:25px"><b>25th March 2021</b>
  </button>
  </div>
  <div class="col-sm-2">
- <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>3rd March 2021</b></button>
+ <button type="button"id="dessy" class="btn btn-dark text-light mr-5 mb-3" style="margin-left:25px"><b>26th March 2021</b></button>
 </div>
 <div class="col-sm-2">
-<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>13th March 2021</b></button>
+<button type="button" id="money" class="btn btn-dark text-warning mr-5 mb-3" style="margin-left:25px"><b>27th March 2021</b></button>
 </div>
 </div>
 </div>
@@ -307,7 +312,7 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 
 <!-- Table --> 
 <div id="tableOld" class="">
-<table id="mat" class="table table-hover table-dark w-50 p-50  center-table" style="align:center; font-size:13px;">
+<table id="mat" class="table table-hover table-dark w-50 p-20  center-table" style="align:center; font-size:15px;">
   <thead style="font-size:12px;">
   <tr>
       <th scope="col">Time</th>
@@ -319,61 +324,12 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
   </thead>
   <tbody>
   <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Ajax v Young Boys</td>
-      <td>Over 2.5</td>
+      <th scope="row"></th>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">17:55</th>
-      <td>Europa league</td>
-      <td>Dynamo Kiev v Villarreal</td>
-      <td>2WEH</td>
+      <td>No matches available at the moment</td>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Man Utd v AC Milan</td>
-      <td>1WEH</td>
       <td></td>
-  </tr>
-  <tr>
-      <th scope="row">20:00</th>
-      <td>Europa League</td>
-      <td>Granada v Molde</td>
-      <td>Over 1.5</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">17:55</th>
-      <td>Europa League</td>
-      <td>Slavia Prague v Rangers</td>
-      <td>BTTS</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">20:00</th>
-      <td>Europa League</td>
-      <td>Roma v Shakhtar Donetsk</td>
-      <td>1WEH</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">20:00</th>
-      <td>Europa League</td>
-      <td>Tottenham v Dinamo Zagreb</td>
-      <td>1</td>
-      <td></td>
-  </tr>
-  <tr>
-      <th scope="row">20:00</th>
-      <td>Europa League</td>
-      <td>Olympiacos v Arsenal</td>
-      <td>Over 1.5</td>
-      <td></td>
-  </tr>
+    </tr>
   </tbody>
 </table>
 </div><br>
@@ -394,74 +350,11 @@ table2.display = none;
   </thead>
   <tbody>
   <tr>
-      <th scope="row">20:15</th>
-      <td>FRA - Ligue 1</td>
-      <td>Strasbourg v Monaco</td>
-      <td>12</td>
-      <td style="color:green">1-0</td>
-    </tr>
-    <tr>
-      <th scope="row">19:45</th>
-      <td>ITA - Serie A</td>
-      <td>Atalanta v Crotone</td>
-      <td>Over 2.5</td>
-      <td style="color:green">5-1</td>
-    </tr>
-    <tr>
-      <th scope="row">19:00</th>
-      <td>Championship</td>
-      <td>Watford v Wycombe Wanderers</td>
-      <td>1</td>
-      <td style="color:green">2-0</td>
-    </tr>
-    <tr>
-      <th scope="row">20:00</th>
-      <td>FRA - Ligue 1</td>
-      <td>Bordeaux v PSG</td>
-      <td>2WEH</td>
-      <td style="color:green">0-1</td>
-    </tr>
-    <tr>
-      <th scope="row">19:00</th>
-      <td>DEN - Superligaen</td>
-      <td>Copenhagen v Vejle BK</td>
-      <td>Over 2.5</td>
-      <td style="color:green">2-1</td>
-    </tr>
-    <tr>
-      <th scope="row">18:45</th>
-      <td>ISR - Primier League</td>
-      <td>Hapoel Tel Aviv v Maccabi Haifa</td>
-      <td>2WEH</td>
-      <td style="color:green">1-2</td>
-    </tr>
-    <tr>
-      <th scope="row">18:00</th>
-      <td>SCO - Premiership</td>
-      <td>Livingston v Rangers</td>
-      <td>2</td>
-      <td style="color:green">0-1</td>
-    </tr>
-    <tr>
-      <th scope="row">15:05</th>
-      <td>SRB - Superliga</td>
-      <td>Spartak Subotica v Macva Sabac</td>
-      <td>1</td>
-      <td style="color:green">3-2</td>
-    </tr>
-    <tr>
-      <th scope="row">15:05</th>
-      <td>SRB - Superliga</td>
-      <td>Backa Topola v Red Star Belgrade</td>
-      <td>2WEH</td>
-      <td style="color:green">1-3</td>
-    </tr>
-    <tr>
-      <th scope="row">9:00</th>
-      <td>JPN - J.League</td>
-      <td>Kawasaki Frontale v Cerezo O</td>
-      <td>1</td>
-      <td style="color:green">3-2</td>
+      <th scope="row"></th>
+      <td></td>
+      <td>No matches available at the moment</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -523,10 +416,10 @@ table2.display = none;
       <th scope="col">Score</th>
     </tr>
   </thead>
-    <tr>
+  <tr>
       <th scope="row"></th>
       <td></td>
-      <td></td>
+      <td>No matches available at the moment</td>
       <td></td>
       <td></td>
     </tr>
@@ -559,95 +452,11 @@ table2.display = none;
   </thead>
   <tbody>
   <tr>
-      <th scope="row">20:15</th>
-      <td>FRA - Ligue 1</td>
-      <td>Strasbourg v Monaco</td>
-      <td>12</td>
-      <td style="color:green">1-0</td>
-    </tr>
-    <tr>
-      <th scope="row">19:45</th>
-      <td>ITA - Serie A</td>
-      <td>Atalanta v Crotone</td>
-      <td>Over 2.5</td>
-      <td style="color:green">5-1</td>
-    </tr>
-    <tr>
-      <th scope="row">19:00</th>
-      <td>Championship</td>
-      <td>Watford v Wycombe Wanderers</td>
-      <td>1</td>
-      <td style="color:green">2-0</td>
-    </tr>
-    <tr>
-      <th scope="row">20:00</th>
-      <td>FRA - Ligue 1</td>
-      <td>Bordeaux v PSG</td>
-      <td>2WEH</td>
-      <td style="color:green">0-1</td>
-    </tr>
-    <tr>
-      <th scope="row">19:00</th>
-      <td>DEN - Superligaen</td>
-      <td>Copenhagen v Vejle BK</td>
-      <td>Over 2.5</td>
-      <td style="color:green">2-1</td>
-    </tr>
-    <tr>
-      <th scope="row">18:45</th>
-      <td>ISR - Primier League</td>
-      <td>Hapoel Tel Aviv v Maccabi Haifa</td>
-      <td>2WEH</td>
-      <td style="color:green">1-2</td>
-    </tr>
-    <tr>
-      <th scope="row">18:00</th>
-      <td>SCO - Premiership</td>
-      <td>Livingston v Rangers</td>
-      <td>2</td>
-      <td style="color:green">0-1</td>
-    </tr>
-    <tr>
-      <th scope="row">15:05</th>
-      <td>SRB - Superliga</td>
-      <td>Spartak Subotica v Macva Sabac</td>
-      <td>1</td>
-      <td style="color:green">3-2</td>
-    </tr>
-    <tr>
-      <th scope="row">15:05</th>
-      <td>SRB - Superliga</td>
-      <td>Backa Topola v Red Star Belgrade</td>
-      <td>2WEH</td>
-      <td style="color:green">1-3</td>
-    </tr>
-    <tr>
-      <th scope="row">9:00</th>
-      <td>JPN - J.League</td>
-      <td>Kawasaki Frontale v Cerezo O</td>
-      <td>1</td>
-      <td style="color:green">3-2</td>
-    </tr>
-    <tr>
-      <th scope="row">9:00</th>
-      <td>JPN - J.League</td>
-      <td>Kawasaki Frontale v Cerezo O</td>
-      <td>Over 2.5</td>
-      <td style="color:green">3-2</td>
-    </tr>
-    <tr>
-      <th scope="row">20:00</th>
-      <td>NED - KNVB beker</td>
-      <td>Heerenveen v Ajax</td>
-      <td>Over 2.5</td>
-      <td style="color:green">0-3</td>
-    </tr>
-    <tr>
-      <th scope="row">15:45</th>
-      <td>Champions League</td>
-      <td>Barcelona v Fortuna Hjorring</td>
-      <td>Over 3.5</td>
-      <td style="color:green">4-0</td>
+      <th scope="row"></th>
+      <td></td>
+      <td>No matches available at the moment</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 
@@ -671,6 +480,7 @@ table2.display = none;
     <p style="font-size:1em;" id="p">Yes, you can.  As you have noticed, the match predictions on the table don't have big odds. You can send us an email at superplatinumtips@gmail.com to request a special bet with over 10+ odds. When the request is accepted, the match predictions will be sent via mail.</p>
     </div>
 <!-- end of description -->
+
 
      <!-- footer -->
      <footer  style="background-color: #2c292f">

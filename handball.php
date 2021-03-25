@@ -175,6 +175,8 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 
 </head>
 <body>
+
+<!-- SSL CERTIFICATE CODE -->
 <script type="text/javascript"> //<![CDATA[
   var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
   document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
@@ -182,6 +184,8 @@ src="https://www.facebook.com/tr?id=273127084337104&ev=PageView&noscript=1"
 <script language="JavaScript" type="text/javascript">
   TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_md_167x42.png", "POSDV", "none");
 </script>
+<!-- SSL CERTIFICATE -->
+
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
